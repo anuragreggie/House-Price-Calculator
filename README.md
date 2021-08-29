@@ -1,2 +1,2 @@
 # House-Price-Calculator
-End-to-End Machine Learning Project from the "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" book.
+A machine learning model using Python and Scikit-Learn that uses a random forest regressor to predict the value of houses in California.
